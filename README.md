@@ -1,2 +1,1 @@
-# python
-moving around with python 
+Moving around with python 
